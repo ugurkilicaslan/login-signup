@@ -1,7 +1,5 @@
 {
-  "name": "Login and Sign up MobileApp",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "Login ve Sign-Up Sayfası",
+  "integrations": {},
   "type": "angular"
 }
